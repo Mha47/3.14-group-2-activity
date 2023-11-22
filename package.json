@@ -11,5 +11,11 @@
     "url": "github.com/Mha47/3.14-group-2-activity"
   },
   "author": "Mha47",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serverless": "^3.37.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^13.3.0"
+  }
 }
