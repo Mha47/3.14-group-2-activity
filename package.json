@@ -13,8 +13,8 @@
   "author": "Mha47",
   "license": "ISC",
   "dependencies": {
-    "jest": "^29.7.0",
-    "serverless": "^3.37.0"
+    "jest": "^30.0.0",
+    "serverless": "^4.0.0"
   },
   "devDependencies": {
     "serverless-offline": "^13.3.0"
